@@ -3,6 +3,7 @@
 
 # ignore build system clutter
 build-*
+*.obj
 
 # always consider files containing source code regardless of their names
 !*.cpp
