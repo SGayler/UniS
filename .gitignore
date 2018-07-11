@@ -1,0 +1,12 @@
+# ignore python caching files
+*.pyc
+
+# ignore build system clutter
+build-*
+
+# always consider files containing source code regardless of their names
+!*.cpp
+!*.hh
+!*.py
+!*.c
+!*.h
